@@ -38,7 +38,7 @@ body {margin:0;}
     width: 100%;
     background-color: black;
     color: white;
-    text-align: center;
+    text-align: left;
  }
 
  .accordion {
@@ -76,4 +76,12 @@ body {margin:0;}
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
+  }
+
+  a {
+    color: white;
+  }
+  
+  a:visited {
+    color: green;
   }
