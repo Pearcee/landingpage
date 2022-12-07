@@ -19,9 +19,6 @@ MyWebsite/
 git clone https://github.com/pearcee/fuzzy-lamp.git
 git clone https://github.com/googlecodelabs/your-first-pwapp.git
 git clone https://github.com/Pearcee/your-first-pwapp.git
-git clone https://github.com/Pearcee/pwapp.git
-git clone https://github.com/Pearcee/pwa.rocks.git
-git clone https://github.com/zuixjs/zuix-html-pwa
 
 echo "# fuzzy-lamp" >> README.md
 git init
